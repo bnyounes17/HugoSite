@@ -4,4 +4,5 @@ draft = false
 title = 'About'
 +++
 
-### About us
+### About
+This is a first post
