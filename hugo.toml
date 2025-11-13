@@ -2,3 +2,24 @@ baseURL = 'https://bnyounes17.github.io/HugoSite/'
 languageCode = 'en-us'
 title = 'Younes Bensassi-Nour'
 theme="ananke"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  
+  [[menu.main]]
+    name = "Blog"
+    url = "/post/"
+    weight = 3
+  
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
