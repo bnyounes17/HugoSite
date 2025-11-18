@@ -1,8 +1,9 @@
 #baseURL = 'https://bnyounes17.github.io/HugoSite/'
-baseURL = "http://hugowebsite-ybn.s3-website-us-east-2.amazonaws.com/"
+#baseURL = "http://hugowebsite-ybn.s3-website.us-east-2.amazonaws.com/"
+baseURL = "https://d17h462cczkjl4.cloudfront.net/"
 languageCode = 'en-us'
 title = 'Younes Bensassi-Nour'
-theme="ananke"
+theme ="ananke"
 
 [menu]
   [[menu.main]]
