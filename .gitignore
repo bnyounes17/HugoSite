@@ -1,3 +1,7 @@
+# Hugo build artifacts - NEVER COMMIT
+public/
+*.zip
+
 # Hugo
 public/
 resources/_gen/
